@@ -1,37 +1,45 @@
 # 虚拟电脑app
-
-#### 介绍
 让任意安卓设备，变成便携式linux桌面电脑
 
+
+# [点此跳到 官方下载页面 ](http://124.221.123.125/cn/download.htm)
+
+#### ====【请注意】====
+安装虚拟系统时，请保持虚拟电脑在前台运行!<br><br>
+
+#### 软件介绍
+安卓手机免root运行proot-linux桌面系统，把手机当电脑，<br>
+用于3D打印控制、制作启动U盘、便携办公、编程学习、游戏娱乐、少儿电脑、户外应急电脑。
+
+#### 视频演示
+1. [抖音主页](https://v.douyin.com/i8HeoWRU)
+2. [ B站主页](https://space.bilibili.com/3537116858420122)
+
+
+#### 同类应用比较
+1. 无需root、不用刷机，不破坏手机的权限系统，手机仍可以放心的用于日常支付和拨打电话
+2. 不用敲指令，省心不折腾
+3. 直绘屏幕画面，不需要vnc中转，显示效率更高
+4. 虚拟系统存储空间占用小，整个虚拟系统安装完图形界面仅占用1.5GB左右存储空间
+5. 虚拟系统的软件下载仓库自动切换成国内仓库，下载速度快
+6. 使用单独的云下载服务器存放没有国内镜像站点的软件安装包，下载速度快
+7. 支持满屏无线投屏
+
+
+
 #### 软件架构
-软件架构说明
+支持安卓8.0以上的任意设备，包括手机、平板、电视、盒子、车机
 
 
 #### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  手机上访问： [虚拟电脑app安装包下载页面](http://124.221.123.125/cn/download.htm)
+2.  安装并启动
+3.  按照屏幕提示安装虚拟系统
+4.  注意安装虚拟系统的过程中，请不要动手机，除非屏幕一分钟都没变化。
 
 #### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+1.  开始菜单 已集成多种常用功能，如启动sshd、ftpd文件共享、telnetd
+2.  软件管家中 已收录常用软件的自动化安装脚本
 
 
-#### 特技
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
