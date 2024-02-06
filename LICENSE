@@ -1,0 +1,15 @@
+droidvm 版权声明
+====================================================================================
+droidvm 由 闭源的 droidvm apk 和 开源的linux-installer-for-droidvm 两个项目组成
+
+droidvm 的这两个项目分别使用不同的许可协议，具体如下：
+
+1. 闭源的 droidvm apk 项目:
+安卓包名为: com.zzvm
+由柳州正卓软件有限公司开发，柳州正卓软件有限公司对这个项目的全部内容保留所有权利
+发布为一个apk安装包
+
+2. 开源的 linux-installer-for-droidvm 项目:
+由柳州正卓软件有限公司开发，这个项目使用MIT许可协议
+项目托管地址：https://gitee.com/droidvm/linux-installer-for-droidvm
+发布为一个zip压缩包
