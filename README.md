@@ -2,7 +2,7 @@
 让任意安卓设备，变成便携式linux桌面电脑
 
 
-# [点此跳到 官方下载页面 ](http://124.221.123.125/cn/download.htm)
+# [点此跳到 官方下载页面(较慢)](http://124.221.123.125/cn/download.htm)
 ## [点此查看 如何快速安装虚拟系统 ](http://124.221.123.125/cn/howtouse.htm#quick_install)
 ## [点此查看 安装步骤 ](http://124.221.123.125/cn/howtouse.htm)
 ## [点此查看 有何限制 ](http://124.221.123.125/cn/limitation.htm)
