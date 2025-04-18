@@ -3,6 +3,7 @@
 
 
 # [点此跳到 官方下载页面 ](http://124.221.123.125/cn/download.htm)
+## [点此查看 如何快速安装虚拟系统 ](http://124.221.123.125/cn/howtouse.htm#quick_install)
 ## [点此查看 安装步骤 ](http://124.221.123.125/cn/howtouse.htm)
 ## [点此查看 有何限制 ](http://124.221.123.125/cn/limitation.htm)
 ## [点此查看 默认密码 ](http://124.221.123.125/cn/readme.htm)
