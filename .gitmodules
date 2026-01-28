@@ -1,0 +1,4 @@
+[submodule "mitux"]
+	path = mitux
+	url = https://gitee.com/droidvm/mitux
+	ignore = dirty
