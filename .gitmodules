@@ -1,4 +1,4 @@
-[submodule "mitux"]
-	path = mitux
+[submodule "apk/app/src/main/native/mitux"]
+	path = apk/app/src/main/native/mitux
 	url = https://gitee.com/droidvm/mitux
 	ignore = dirty
