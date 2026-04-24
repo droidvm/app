@@ -3,8 +3,6 @@
 
 
 ## [下载最新版本](https://gitee.com/droidvm/app/releases/latest)
-#### 默认密码
-droidvm
 <br>
 <br>
 
@@ -17,6 +15,11 @@ droidvm
 用于3D打印控制、制作启动U盘、便携办公、编程学习、游戏娱乐、少儿电脑、户外应急电脑。<br>
 <br>
 支持安卓8.0以上的任意设备，包括手机、平板、电视、盒子、车机
+
+#### 默认密码
+droidvm
+<br>
+<br>
 
 #### 视频演示
 1. [抖音主页](https://v.douyin.com/i8HeoWRU)
