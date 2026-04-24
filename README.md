@@ -2,6 +2,8 @@
 让任意安卓设备，变成便携式linux桌面电脑
 
 #### [下载最新版本](https://gitee.com/droidvm/app/releases/latest) <br>
+
+#### [查看所有版本](https://gitee.com/droidvm/app/releases) <br>
 <br>
 
 #### 特别提示
