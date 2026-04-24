@@ -1,10 +1,13 @@
 [submodule "native/mitux"]
-	path = native/mitux
-	url = https://gitee.com/droidvm/mitux
+	path   = native/mitux
+	url    = https://gitee.com/droidvm/mitux
 	ignore = dirty
 
 [submodule "linux-installer-for-droidvm"]
-	path = linux-installer-for-droidvm
-	url = https://gitee.com/droidvm/linux-installer-for-droidvm
+	path   = linux-installer-for-droidvm
+	url    = https://gitee.com/droidvm/linux-installer-for-droidvm
 	ignore = dirty
 
+[submodule "mitux"]
+	path = mitux
+	url  = https://gitee.com/droidvm/mitux
