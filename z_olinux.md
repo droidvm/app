@@ -2,7 +2,7 @@
 
 <b>特别说明：</b><br>
 　　正卓软件管家<b>仅可用于</b>ubuntu系统，<br>
-　　其它发行版安装难度稍大，故仅供专业玩家安装体验，<br>
+　　其它发行版安装难度稍大，相关脚本可能一年都不会更新一次，故仅供专业玩家安装体验，<br>
 　　安装过程中遇到问题<b>请自行研究解决！</b><br>
 　　安装脚本参考: https://gitee.com/droidvm/linux-installer-for-droidvm/tree/master/distributions<br>
 <br>
