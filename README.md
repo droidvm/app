@@ -7,7 +7,7 @@
 
 #### [查看机型适配情况](z_mindevice.md)
 
-#### [安装其它Linux发行版(门槛稍高, 仅供资深用户体验)](z_mindevice.md)
+#### [安装其它Linux发行版(门槛稍高, 仅供资深用户体验)](z_olinux.md)
 
 <br>
 
