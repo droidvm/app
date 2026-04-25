@@ -1,6 +1,6 @@
 在虚拟电脑APP中安装其它的Linux发行版
 
-特别说明：<br>
+<b>特别说明：</b><br>
 　　正卓软件管家仅可用于ubuntu系统，<br>
 　　其它发行版仅供专业玩家安装体验，<br>
 　　请自行研究！<br>
@@ -14,7 +14,7 @@
 　　"zzvm://" 开头。<br>
 <br>
 
-具体步骤如下：<br>
+<b>具体步骤如下：</b><br>
 第一步：<br>
 　　卸载虚拟电脑app、重新安装，但先不要启动<br>
 　　或者，把虚拟电脑app的存储清空<br>
@@ -30,10 +30,25 @@
 　　启动虚拟电脑app (虚拟系统的安装界面)<br>
 <br>
 <br>
-目前支持的安装口令如下： 
+
+<b>目前支持的安装口令如下：</b>
 
 Ubuntu 24.04, 全新安装
 ```
 zzvm://setup
 ```
 
+
+Ubuntu 26.04, 全新安装
+```
+zzvm://rootfs
+arch=arm64
+genv=1
+info="ubuntu官方仓库"
+dist=ubuntu
+code=26.04
+name=raccoon
+uzip=-xzf
+fzip=ubuntu-base-26.04-base-arm64.tar.gz
+addr=https://cdimage.ubuntu.com/ubuntu-base/releases/26.04/release/$fzip
+```
