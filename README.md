@@ -1,6 +1,6 @@
 # 虚拟电脑app
 
-让任意安卓设备，变成便携式linux桌面电脑
+安卓手机、平板、电视 当linux桌面电脑
 
 #### 官方仓库
 原始仓: https://gitee.com/droidvm/app<br>
