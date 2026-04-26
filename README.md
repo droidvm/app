@@ -5,7 +5,7 @@
 
 #### [查看所有版本、及变动记录](https://gitee.com/droidvm/app/releases) <br>
 
-#### [查看机型适配情况](https://gitee.com/droidvm/app/z_mindevice.md)
+#### [查看机型适配情况](https://gitee.com/droidvm/app/blob/master/z_mindevice.md)
 
 <br>
 
@@ -50,12 +50,12 @@
 1.  开始菜单 集成 sshd、webtty、ftpd文件共享
 2.  软件管家 已收录常用软件的自动化安装脚本
 3.  桌面上有教程目录
-4.  [多进程应用-防杀保活方法](https://gitee.com/droidvm/app/z_unfreeze.md)
+4.  [多进程应用-防杀保活方法](https://gitee.com/droidvm/app/blob/master/z_unfreeze.md)
 
 #### 安装其它Linux发行版(不建议)
 其它发行版安装难度稍大, 仅供资深用户体验!<br>
 安装过程中遇到问题请自行研究解决！<br>
-若您确实需要安装其它发行版, 请点击： [非默认发行版安装教程](https://gitee.com/droidvm/app/z_olinux.md)
+若您确实需要安装其它发行版, 请点击： [非默认发行版安装教程](https://gitee.com/droidvm/app/blob/master/z_olinux.md)
 
 #### 平行对比
 | |对比项|
