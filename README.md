@@ -1,5 +1,10 @@
 # 虚拟电脑app
+
 让任意安卓设备，变成便携式linux桌面电脑
+
+#### 官方仓库
+原始仓: https://gitee.com/droidvm/app<br>
+备用仓: https://github.com/droidvm/app<br>
 
 #### [下载最新版本](http://124.221.123.125/apps/droidvm/downloads.php) <br>
 
