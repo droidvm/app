@@ -6,7 +6,7 @@
 原始仓: https://gitee.com/droidvm/app<br>
 备用仓: https://github.com/droidvm/app<br>
 
-#### [下载最新版本](http://124.221.123.125/apps/droidvm/downloads.php) <br>
+#### [下载最新版本](http://124.221.123.125/apps/droidvm/downloads.htm) <br>
 
 #### [查看所有版本、及变动记录](https://gitee.com/droidvm/app/releases) <br>
 
