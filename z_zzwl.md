@@ -7,7 +7,7 @@ wayland客户端, 实现的是超小型桌面环境<br>
 未完善到可用的程度
 
 #### virvk 介绍
-virvk 是 virglrenderer 中的 venus<br>近期在对其中的vulkan-render-server做深度移植!<br>
+virvk 是 virglrenderer 中的 venus, 移植时改了个名称<br>
 为避口舌特意选用了 virglrender 官仓中的最新版代码来移植<br>
 (1.3.0, 没人移植过这个版本)<br>
 未完善到可用的程度
