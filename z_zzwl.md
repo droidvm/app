@@ -1,6 +1,6 @@
 #### zzwl 介绍
 wayland服务端, 负责合成程序画面并送显<br>
-未完善到可用的程度
+未完善到可用的程度, 体验步骤: <br>echo "droidvm-zzwl">$app_home/app_boot_config/gui_srv_libname.txt
 
 #### zzde 介绍
 wayland客户端, 实现的是超小型桌面环境<br>
