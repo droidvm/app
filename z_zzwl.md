@@ -21,7 +21,7 @@ virvk 是 virglrenderer 中的 venus, 移植时改了个名称<br>
 
 | |virvk 测试设备|
 |--|:--|
-|1|红米-k40 , 安卓13, 骁龙 870(Adreno (TM) 650)|
+|1|红米-k40 , 安卓13, 骁龙 870(Adreno (TM) 650), 原厂vulkan驱动不支持dma-buf扩展也能用!|
 |2|oppo-A93s, 安卓12, 天玑 700(Mali-G57 MC2)|
 
 | |virvk 测试步骤|
